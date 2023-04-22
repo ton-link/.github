@@ -10,4 +10,4 @@
 
 ## TON Link Website
 * [TON Link frontend](https://github.com/ton-link/ton-link-web) - TON Link frontend
-* [TON Link backend](https://github.com/ton-link/ton-link-web) - TON Link backend
+* [TON Link backend](https://github.com/ton-link/ton-link-backend) - TON Link backend
