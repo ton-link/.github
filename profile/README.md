@@ -1,5 +1,8 @@
 # Welcome to TON Link 👋 
 
+## Documentation
+* [docs](https://github.com/ton-link/docs)
+
 ## TON Link V3
 * [TON Link contract V3](https://github.com/ton-link/ton-link-contract-v3) - Contracts of the first decentralized oracle network on TON-blockchain
 * [TON Link node V3](https://github.com/ton-link/ton-link-node-v3) - Node of the first decentralized oracle network on TON-blockchain
